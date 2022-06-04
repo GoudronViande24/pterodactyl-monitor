@@ -1,0 +1,12 @@
+{
+  "name": "pterodactyl-monitor",
+  "version": "0.0.1",
+  "devDependencies": {
+    "wrangler": "2.0.7"
+  },
+  "private": true,
+  "scripts": {
+    "start": "wrangler dev",
+    "publish": "wrangler publish"
+  }
+}

@@ -1,0 +1,9 @@
+name = "pterodactyl-monitor"
+main = "src/index.js"
+compatibility_date = "2022-06-03"
+
+[vars]
+PTERO_URL = "https://gv1.artivain.com"
+
+# [secrets]
+# PTERO_TOKEN
